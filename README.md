@@ -1,5 +1,6 @@
 # Project Guteam
 <div align="center">
-  <img src="https://github.com/DHKwak00/Guteam/assets/124860244/dc12b8de-0423-4651-a52d-5361139a3400" width="300px" hright="300px">
+  <img src="https://github.com/DHKwak00/Guteam/assets/124860244/cadc12f2-b7ba-4171-89d8-852b5d13bb97" width="150px" hright="150px">
 </div>
 -----------------------
+
