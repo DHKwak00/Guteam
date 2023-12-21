@@ -31,14 +31,6 @@
 
 |   |   |
 |---|---|
-| 개발 환경 | <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/Mybatis5-25A162?style=for-the-badge&logo=Mybatis&logoColor=white"> |
-| 적용 기술 |   |
+| 개발 환경 | <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/Mybatis-000000?style=for-the-badge&logo=Mybatis&logoColor=white"> <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> |
+| 적용 기술 | <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/AJAX-0099E5?style=for-the-badge&logo=AJAX&logoColor=white"> <img src="https://img.shields.io/badge/kakaoPay-FFCD00?style=for-the-badge&logo=kakao&logoColor=white"> |
 
-개발 환경 
-|  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">   | <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">   | <img src="https://img.shields.io/badge/JUnit5-#25A162?style=for-the-badge&logo=JUnit5&logoColor=white">  |   |
-|---|---|---|---|
-|   |   |   |   |
-
-| 적용 기술 |
-|---|---|---|---|
-|하나|둘|셋|넷|
